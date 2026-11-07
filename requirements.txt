@@ -1,0 +1,2 @@
+google-play-scraper>=1.2.7
+langdetect>=1.0.9
